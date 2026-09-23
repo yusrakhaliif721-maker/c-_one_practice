@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B82D6BAB-1DAA-4900-A040-AA42E9E66E96}</ProjectGuid>
+    <ProjectGuid>{6E8DCC53-E33B-4261-B251-8152BE5D03C0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>home_assigment</RootNamespace>
-    <AssemblyName>home assigment</AssemblyName>
+    <RootNamespace>homeasssigment</RootNamespace>
+    <AssemblyName>homeasssigment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

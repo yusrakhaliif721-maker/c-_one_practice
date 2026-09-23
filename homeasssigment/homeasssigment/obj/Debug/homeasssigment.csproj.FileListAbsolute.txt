@@ -1,0 +1,11 @@
+C:\Users\yusra\Downloads\homeasssigment\homeasssigment\obj\Debug\homeasssigment.csproj.AssemblyReference.cache
+C:\Users\yusra\Downloads\homeasssigment\homeasssigment\obj\Debug\homeasssigment.Form1.resources
+C:\Users\yusra\Downloads\homeasssigment\homeasssigment\obj\Debug\homeasssigment.Properties.Resources.resources
+C:\Users\yusra\Downloads\homeasssigment\homeasssigment\obj\Debug\homeasssigment.csproj.GenerateResource.cache
+C:\Users\yusra\Downloads\homeasssigment\homeasssigment\obj\Debug\homeasssigment.csproj.CoreCompileInputs.cache
+C:\Users\yusra\Downloads\homeasssigment\homeasssigment\bin\Debug\homeasssigment.exe.config
+C:\Users\yusra\Downloads\homeasssigment\homeasssigment\bin\Debug\homeasssigment.exe
+C:\Users\yusra\Downloads\homeasssigment\homeasssigment\bin\Debug\homeasssigment.pdb
+C:\Users\yusra\Downloads\homeasssigment\homeasssigment\obj\Debug\homeasssigment.exe
+C:\Users\yusra\Downloads\homeasssigment\homeasssigment\obj\Debug\homeasssigment.pdb
+C:\Users\yusra\Downloads\homeasssigment\homeasssigment\obj\Debug\homeasssigment.exe.config

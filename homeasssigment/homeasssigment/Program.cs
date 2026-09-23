@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace home_assigment
+namespace homeasssigment
 {
     internal static class Program
     {

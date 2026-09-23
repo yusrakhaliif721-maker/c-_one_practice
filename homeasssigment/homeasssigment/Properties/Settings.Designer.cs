@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace home_assigment.Properties
+namespace homeasssigment.Properties
 {
 
 
