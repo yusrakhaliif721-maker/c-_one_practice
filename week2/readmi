@@ -89,5 +89,5 @@ Barnaamijka C# wuxuu u isticmaalaa calaamadahan xisaabinta: [1]
 ## 🔒 3.8 Using Named Constants
 - **Named Constant (`const`):** Waa magac matala qiimo aan waligiis isbeddelayn inta barnaamijku uu socdo. Waxaa lagu dhawaaqaa ereyga `const`. [1]
   ```csharp
-  const double INTEREST_RATE = 0.129;
-  ```
+  const double INTEREST_RATE = 0.129;38
+  
