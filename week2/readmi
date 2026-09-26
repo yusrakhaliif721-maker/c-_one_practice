@@ -1,0 +1,93 @@
+
+# Chapter 3: Processing Data (Up to 3.8)
+
+## 🗒 Topics Overview
+- `3.1` Reading Input with TextBox Controls
+- `3.2` A First Look at Variables
+- `3.3` Numeric Data Type and Variables
+- `3.4` Performing Calculations
+- `3.5` Inputting and Outputting Numeric Values
+- `3.6` Formatting Numbers with the ToString Method
+- `3.7` Simple Exception Handling
+- `3.8` Using Named Constants
+
+---
+
+## 🔎 3.1 Reading Input with TextBox Controls
+- **TextBox Control:** Waa meel afar-gees ah oo adeegsadaha ka qaadata qoraalka uu ku qoro keyboard-ka. [1]
+- **Text Property:** Waxay kaydisaa wixii qoraal ah oo lagu dhex qoro TextBox-ka, waxayna aqbashaa oo kaliya qaabka `string`. [1]
+  ```csharp
+  textBox1.Text = "Hello";
+  textBox1.Clear(); // Si aad u tirtirto qoraalka dhex jira
+  ```
+
+---
+
+## 💡 3.2 A First Look at Variables
+- **Variable:** Waa meel xogta lagu kaydiyo oo ku dhex taal xusuusta kombiyuutarka (Memory). [1]
+- **Primitive Data Types:** Waa noocyada xogta ee aasaasiga ah ee barnaamijka C# u diyaarsan, sida `int`, `double`, `decimal`, `char`, `bool`, iyo `string`. [1]
+- **String Concatenation:** Waa isku xirka labo qoraal barnaamijka dhexdiisa ayadoo la isticmaalayo calaamadda `+`. [1]
+  ```csharp
+  string fullname = firstNameTextBox.Text + " " + lastNameTextBox.Text;
+  ```
+
+---
+
+## 📊 3.3 Numeric Data Types and Variables
+- `int`: Waxay kaydisaa lambarada guud ee aan jajabka lahayn (Whole numbers). [1]
+- `double`: Waxay kaydisaa lambarada jajabka leh ee caadiga ah. [1]
+- `decimal`: Waxay kaydisaa lambarada jajabka ah ee saxnaanta weyn u baahan, sida xisaabaadka maaliyadda. [1]
+  ```csharp
+  int hoursWorked = 40;
+  double temperature = 87.6;
+  decimal payRate = 28.75m; // Lambarka decimal-ka waxaa mar walba lagu daraa "m" ama "M"
+  ```
+
+---
+
+## 📈 3.4 Performing Calculations
+Barnaamijka C# wuxuu u isticmaalaa calaamadahan xisaabinta: [1]
+- Iskudar: `+` [1]
+- Kala goynta: `-` [1]
+- Isku dhufasho: `*` [1]
+- Qeybin: `/` [1]
+- Haraga qeybta (Modulus): `%` [1]
+
+---
+
+## 📥 3.5 Inputting and Outputting Numeric Values
+- **Parse Methods:** Maadaama TextBox-ku uu qoraal ahaan xogta u qaado, waxaan isticmaalnaa hababkan si loogu beddelo lambaro: [1]
+  ```csharp
+  int hours = int.Parse(hoursWorkedTextBox.Text);
+  double temp = double.Parse(temperatureTextBox.Text);
+  ```
+
+---
+
+## 🎨 3.6 Formatting Numbers with the ToString Method
+- Waxaad u isticmaali kartaa qaababkan si aad lambarka u muujiso: [1]
+  - `ToString("C")` -> Wuxuu u beddelaa qaab Lacag ah (Currency). [1]
+  - `ToString("N")` -> Wuxuu ku darayaa commas iyo jajab caadi ah. [1]
+
+---
+
+## ⚠️ 3.7 Simple Exception Handling
+- **Exception (try-catch):** Waxaa loo isticmaalaa in lagu qabto khaladaadka dhaca barnaamijka inta uu socdo (sida qoraal lagu qoray meel lambar laga rabay) si uusan barnaamijku u jabin. [1]
+  ```csharp
+  try
+  {
+      double miles = double.Parse(milesTextBox.Text);
+  }
+  catch (Exception ex)
+  {
+      MessageBox.Show(ex.Message); // Wuxuu soo bandhigayaa farriinta khaladka
+  }
+  ```
+
+---
+
+## 🔒 3.8 Using Named Constants
+- **Named Constant (`const`):** Waa magac matala qiimo aan waligiis isbeddelayn inta barnaamijku uu socdo. Waxaa lagu dhawaaqaa ereyga `const`. [1]
+  ```csharp
+  const double INTEREST_RATE = 0.129;
+  ```
