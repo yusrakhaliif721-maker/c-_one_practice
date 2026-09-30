@@ -1,0 +1,11 @@
+C:\Users\yusra\Documents\hotel\hotelROOMBooking\hotelROOMBooking\obj\Debug\hotelROOMBooking.csproj.AssemblyReference.cache
+C:\Users\yusra\Documents\hotel\hotelROOMBooking\hotelROOMBooking\obj\Debug\hotelROOMBooking.Form1.resources
+C:\Users\yusra\Documents\hotel\hotelROOMBooking\hotelROOMBooking\obj\Debug\hotelROOMBooking.Properties.Resources.resources
+C:\Users\yusra\Documents\hotel\hotelROOMBooking\hotelROOMBooking\obj\Debug\hotelROOMBooking.csproj.GenerateResource.cache
+C:\Users\yusra\Documents\hotel\hotelROOMBooking\hotelROOMBooking\obj\Debug\hotelROOMBooking.csproj.CoreCompileInputs.cache
+C:\Users\yusra\Documents\hotel\hotelROOMBooking\hotelROOMBooking\bin\Debug\hotelROOMBooking.exe.config
+C:\Users\yusra\Documents\hotel\hotelROOMBooking\hotelROOMBooking\bin\Debug\hotelROOMBooking.exe
+C:\Users\yusra\Documents\hotel\hotelROOMBooking\hotelROOMBooking\bin\Debug\hotelROOMBooking.pdb
+C:\Users\yusra\Documents\hotel\hotelROOMBooking\hotelROOMBooking\obj\Debug\hotelROOMBooking.exe
+C:\Users\yusra\Documents\hotel\hotelROOMBooking\hotelROOMBooking\obj\Debug\hotelROOMBooking.pdb
+C:\Users\yusra\Documents\hotel\hotelROOMBooking\hotelROOMBooking\obj\Debug\hotelROOMBooking.exe.config
