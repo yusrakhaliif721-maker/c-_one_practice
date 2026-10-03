@@ -1,0 +1,11 @@
+C:\Users\yusra\Desktop\Range_cheken\range-\range-\bin\Debug\range-.exe.config
+C:\Users\yusra\Desktop\Range_cheken\range-\range-\bin\Debug\range-.exe
+C:\Users\yusra\Desktop\Range_cheken\range-\range-\bin\Debug\range-.pdb
+C:\Users\yusra\Desktop\Range_cheken\range-\range-\obj\Debug\range-.csproj.AssemblyReference.cache
+C:\Users\yusra\Desktop\Range_cheken\range-\range-\obj\Debug\range_.Form1.resources
+C:\Users\yusra\Desktop\Range_cheken\range-\range-\obj\Debug\range_.Properties.Resources.resources
+C:\Users\yusra\Desktop\Range_cheken\range-\range-\obj\Debug\range-.csproj.GenerateResource.cache
+C:\Users\yusra\Desktop\Range_cheken\range-\range-\obj\Debug\range-.csproj.CoreCompileInputs.cache
+C:\Users\yusra\Desktop\Range_cheken\range-\range-\obj\Debug\range-.exe
+C:\Users\yusra\Desktop\Range_cheken\range-\range-\obj\Debug\range-.pdb
+C:\Users\yusra\Desktop\Range_cheken\range-\range-\obj\Debug\range-.exe.config

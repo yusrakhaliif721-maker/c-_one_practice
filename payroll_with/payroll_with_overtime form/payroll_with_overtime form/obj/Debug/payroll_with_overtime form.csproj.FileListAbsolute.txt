@@ -1,0 +1,11 @@
+C:\Users\yusra\Desktop\payroll_with\payroll_with_overtime form\payroll_with_overtime form\bin\Debug\payroll_with_overtime form.exe.config
+C:\Users\yusra\Desktop\payroll_with\payroll_with_overtime form\payroll_with_overtime form\bin\Debug\payroll_with_overtime form.exe
+C:\Users\yusra\Desktop\payroll_with\payroll_with_overtime form\payroll_with_overtime form\bin\Debug\payroll_with_overtime form.pdb
+C:\Users\yusra\Desktop\payroll_with\payroll_with_overtime form\payroll_with_overtime form\obj\Debug\payroll_with_overtime form.csproj.AssemblyReference.cache
+C:\Users\yusra\Desktop\payroll_with\payroll_with_overtime form\payroll_with_overtime form\obj\Debug\payroll_with_overtime_form.Form1.resources
+C:\Users\yusra\Desktop\payroll_with\payroll_with_overtime form\payroll_with_overtime form\obj\Debug\payroll_with_overtime_form.Properties.Resources.resources
+C:\Users\yusra\Desktop\payroll_with\payroll_with_overtime form\payroll_with_overtime form\obj\Debug\payroll_with_overtime form.csproj.GenerateResource.cache
+C:\Users\yusra\Desktop\payroll_with\payroll_with_overtime form\payroll_with_overtime form\obj\Debug\payroll_with_overtime form.csproj.CoreCompileInputs.cache
+C:\Users\yusra\Desktop\payroll_with\payroll_with_overtime form\payroll_with_overtime form\obj\Debug\payroll_with_overtime form.exe
+C:\Users\yusra\Desktop\payroll_with\payroll_with_overtime form\payroll_with_overtime form\obj\Debug\payroll_with_overtime form.pdb
+C:\Users\yusra\Desktop\payroll_with\payroll_with_overtime form\payroll_with_overtime form\obj\Debug\payroll_with_overtime form.exe.config
