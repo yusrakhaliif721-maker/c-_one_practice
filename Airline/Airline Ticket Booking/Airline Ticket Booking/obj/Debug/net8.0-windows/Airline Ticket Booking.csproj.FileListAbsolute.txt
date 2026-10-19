@@ -1,0 +1,16 @@
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\net8.0-windows\Airline_Ticket_Booking.Form1.resources
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\net8.0-windows\Airline Ticket Booking.csproj.GenerateResource.cache
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\net8.0-windows\Airline Ticket Booking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\net8.0-windows\Airline Ticket Booking.AssemblyInfoInputs.cache
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\net8.0-windows\Airline Ticket Booking.AssemblyInfo.cs
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\net8.0-windows\Airline Ticket Booking.csproj.CoreCompileInputs.cache
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\bin\Debug\net8.0-windows\Airline Ticket Booking.exe
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\bin\Debug\net8.0-windows\Airline Ticket Booking.deps.json
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\bin\Debug\net8.0-windows\Airline Ticket Booking.runtimeconfig.json
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\bin\Debug\net8.0-windows\Airline Ticket Booking.dll
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\bin\Debug\net8.0-windows\Airline Ticket Booking.pdb
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\net8.0-windows\Airline Ticket Booking.dll
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\net8.0-windows\refint\Airline Ticket Booking.dll
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\net8.0-windows\Airline Ticket Booking.pdb
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\net8.0-windows\Airline Ticket Booking.genruntimeconfig.cache
+C:\Users\yusra\Desktop\Airline\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\net8.0-windows\ref\Airline Ticket Booking.dll
