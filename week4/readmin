@@ -1,0 +1,110 @@
+# Chapter 4: Loops, Files, and Random Numbers
+
+## Topics Overview
+- `5.1` The while Loop
+- `5.2` The ++ and -- Operators
+- `5.3` The for Loop
+- `5.4` The do-while Loop
+- `5.5` Using Files for Data Storage
+- `5.6` The OpenFileDialog and SaveFileDialog Controls
+- `5.7` Random Numbers
+- `5.8` The Load Event
+
+---
+
+## ## 5.1 The while Loop
+- **while Loop:** Wuxuu keenaa in bayaan ama dhowr bayaan ay ku celceliyaan inta ay muujinta Boolean-ka (Boolean expression) run (true) tahay.
+- **Pretest Loop:** Loop-ka `while` waa pretest loop, taas oo ka dhigan inuu xaaladda (condition) tijaabiyo ka hor inta uusan samayn wareegga ku celiska ah (iteration). Haddii xaaladdu bilowgaba falis (false) tahay, marnaba ma fulayo.
+- **Infinite Loop:** Waa loop aan dhammaad lahayn oo soconaya ilaa barnaamijka laga dhex gooyo, inta badanna waxay dhacdaa marka koodhka lagu illaabo kordhiyaha (counter variable) si uu xaaladda falis uga dhigo.
+
+```csharp
+int count = 0;
+while (count < 5)
+{
+    MessageBox.Show("Hello");
+    count = count + 1; // Waxay fulaysaa 5 jeer
+}
+```
+
+---
+
+## ## 5.2 The ++ and -- Operators
+- **Increment Operator (++):** Wuxuu u taagan yahay in beddelaha lagu kordhiyo lambarka 1.
+- **Decrement Operator (--):** Wuxuu u taagan yahay in beddelaha laga naasiso (laga gooyo) lambarka 1.
+- **Postfix Mode:** Calamada waxaa la dhigaa beddelaha gadaashiisa (`count++`). Waxay isticmaashaa qiimihii hore, ka dibna ayay beddeshaa.
+- **Prefix Mode:** Calamada waxaa la dhigaa beddelaha horteeda (`--count`). Waxay marka hore beddeshaa qiimaha, ka dibna ayay isticmaashaa.
+
+---
+
+## ## 5.3 The for Loop
+- **for Loop:** Waa loop si gaar ah loogu talagalay xaaladaha u baahan beddele tiriyaha ah (counter variable) si loo xakameeyo inta jeer ee uu loop-ku wareegayo.
+- **Saddexda Waxqabad:** Wuxuu u baahan yahay saddex qaybood oo muhiim ah: Bilowga (Initialization), Tijaabada (Test Expression), iyo Cusboonaysiinta (Update Expression).
+
+```csharp
+// Loop ka bilaabanaya 0 ilaa 4 (wuxuu wareegayaa 5 jeer)
+for (int count = 0; count < 5; count++)
+{
+    MessageBox.Show("Hello");
+}
+```
+
+---
+
+## ## 5.4 The do-while Loop
+- **do-while Loop:** Waa posttest loop, taas oo ka dhigan inuu fuliyo ugu yaraan hal wareeg (iteration) ka hor inta uusan tijaabin muujinta Boolean-ka si uu u ogaado inuu sii soconayo iyo in kale.
+
+```csharp
+int number = 1;
+do
+{
+    MessageBox.Show(number.ToString()); // Ugu yaraan hal jeer ayuu soo baxayaa
+} while (number < 0);
+```
+
+---
+
+## ## 5.5 Using Files for Data Storage
+- **File Storage:** Marka barnaamijku u baahan yahay inuu kaydiyo xogta dambe, wuxuu u qoraa fayl dhexdiis.
+- **Saddexda Tillaabo:** Waxaa had iyo jeer la raacaa: Furitaanka faylka (Open), Ka shaqaynta faylka (Process - qorid ama akhris), iyo Xiritaanka faylka (Close).
+- **StreamWriter:** Fasalka .NET u diyaariyey si xogta loogu qoro fayl qoraal ah (Text file).
+- **StreamReader:** Fasalka .NET u diyaariyey si xogta looga akhriyo fayl qoraal ah.
+- **EndOfStream:** Waa sifo Boolean ah oo laga dhex helo StreamReader, waxayna sheegtaa in dhammaadkii faylka la gaaray iyo in kale.
+
+```csharp
+// Qorista Faylka
+StreamWriter outputFile = File.CreateText("courses.txt");
+outputFile.WriteLine("Introduction to Computer Science");
+outputFile.Close();
+
+// Akhriska Faylka iyadoo Loop la isticmaalayo
+StreamReader inputFile = File.OpenText("students.txt");
+while (inputFile.EndOfStream == false)
+{
+    string line = inputFile.ReadLine();
+}
+inputFile.Close();
+```
+
+---
+
+## ## 5.6 The OpenFileDialog and SaveFileDialog Controls
+- **Invisible Controls:** Waa kontoroollo aan foomka si toos ah uga muuqan laakiin u oggolaanaya barnaamijka inuu muujiyo daaqadaha caadiga ah ee Windows ee faylasha lagu furo ama lagu kaydiyo.
+- **ShowDialog():** Waa habka (method) loo wacdo si loo muujiyo daaqadda interface-ka ah.
+- **DialogResult.OK:** Waxay muujisaa in isticmaalahu uu gujiyey badhanka "Open" ama "Save".
+
+---
+
+## ## 5.7 Random Numbers
+- **Random Class:** Waa fasalka loo isticmaalo in lagu soo saaro lambarro aan kala sooc lahayn (random numbers).
+- **Next Method:** Wuxuu soo saaraa lambar guud (integer) oo random ah.
+- **NextDouble Method:** Wuxuu soo saaraa lambar jajab ah (floating-point) oo u dhexeeya 0.0 iyo 1.0.
+
+```csharp
+Random rand = new Random();
+int number = rand.Next(100); // Wuxuu soo saaraa lambar u dhexeeya 0 ilaa 99
+```
+
+---
+
+## ## 5.8 The Load Event
+- **Load Event:** Waa dhacdo dhacda marka foomka (Form) la kicinayo oo la gelinayo xusuusta kombiyuutarka. Koodh kasta oo lagu dhex qoro wuxuu fulayaa isla marka uu barnaamijku bilowdo ka hor foomka.

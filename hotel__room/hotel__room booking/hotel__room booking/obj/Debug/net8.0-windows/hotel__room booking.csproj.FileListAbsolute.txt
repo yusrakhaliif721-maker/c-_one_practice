@@ -14,3 +14,20 @@ C:\Users\yusra\Documents\hotel__room\hotel__room booking\hotel__room booking\obj
 C:\Users\yusra\Documents\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room booking.pdb
 C:\Users\yusra\Documents\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room booking.genruntimeconfig.cache
 C:\Users\yusra\Documents\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\ref\hotel__room booking.dll
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\bin\Debug\net8.0-windows\hotel__room booking.exe
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\bin\Debug\net8.0-windows\hotel__room booking.deps.json
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\bin\Debug\net8.0-windows\hotel__room booking.runtimeconfig.json
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\bin\Debug\net8.0-windows\hotel__room booking.dll
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\bin\Debug\net8.0-windows\hotel__room booking.pdb
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room_booking.Form1.resources
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room booking.csproj.GenerateResource.cache
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room booking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room booking.AssemblyInfoInputs.cache
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room booking.AssemblyInfo.cs
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room booking.csproj.CoreCompileInputs.cache
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room booking.sourcelink.json
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room booking.dll
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\refint\hotel__room booking.dll
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room booking.pdb
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\hotel__room booking.genruntimeconfig.cache
+C:\Users\yusra\Documents\c#_0ne_practic\c#_one_practice\hotel__room\hotel__room booking\hotel__room booking\obj\Debug\net8.0-windows\ref\hotel__room booking.dll

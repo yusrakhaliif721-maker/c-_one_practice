@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusra\\Desktop\\55555\\software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB604988-2902-4F19-8430-92DA6C074357}|software\\software.csproj|c:\\users\\yusra\\desktop\\55555\\software\\software\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB604988-2902-4F19-8430-92DA6C074357}|software\\software.csproj|solutionrelative:software\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB604988-2902-4F19-8430-92DA6C074357}|software\\software.csproj|C:\\Users\\yusra\\Desktop\\55555\\software\\software\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB604988-2902-4F19-8430-92DA6C074357}|software\\software.csproj|solutionrelative:software\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yusra\\Desktop\\55555\\software\\software\\Form1.cs",
+              "RelativeDocumentMoniker": "software\\Form1.cs",
+              "ToolTip": "C:\\Users\\yusra\\Desktop\\55555\\software\\software\\Form1.cs",
+              "RelativeToolTip": "software\\Form1.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAcwEoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T10:49:28.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yusra\\Desktop\\55555\\software\\software\\Form1.cs",
+              "RelativeDocumentMoniker": "software\\Form1.cs",
+              "ToolTip": "C:\\Users\\yusra\\Desktop\\55555\\software\\software\\Form1.cs [Design]",
+              "RelativeToolTip": "software\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T10:43:55.61Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
