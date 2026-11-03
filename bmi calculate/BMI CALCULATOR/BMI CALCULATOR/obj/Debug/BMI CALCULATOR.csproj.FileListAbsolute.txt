@@ -1,0 +1,21 @@
+C:\Users\pc\Desktop\c#_one_practice\BMI CALCULATOR\BMI CALCULATOR\bin\Debug\BMI CALCULATOR.exe.config
+C:\Users\pc\Desktop\c#_one_practice\BMI CALCULATOR\BMI CALCULATOR\bin\Debug\BMI CALCULATOR.exe
+C:\Users\pc\Desktop\c#_one_practice\BMI CALCULATOR\BMI CALCULATOR\bin\Debug\BMI CALCULATOR.pdb
+C:\Users\pc\Desktop\c#_one_practice\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI CALCULATOR.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c#_one_practice\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI_CALCULATOR.Form1.resources
+C:\Users\pc\Desktop\c#_one_practice\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI_CALCULATOR.Properties.Resources.resources
+C:\Users\pc\Desktop\c#_one_practice\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI CALCULATOR.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\c#_one_practice\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#_one_practice\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI CALCULATOR.exe
+C:\Users\pc\Desktop\c#_one_practice\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI CALCULATOR.pdb
+C:\Users\yusra\Desktop\bmi calculate\BMI CALCULATOR\BMI CALCULATOR\bin\Debug\BMI CALCULATOR.exe.config
+C:\Users\yusra\Desktop\bmi calculate\BMI CALCULATOR\BMI CALCULATOR\bin\Debug\BMI CALCULATOR.exe
+C:\Users\yusra\Desktop\bmi calculate\BMI CALCULATOR\BMI CALCULATOR\bin\Debug\BMI CALCULATOR.pdb
+C:\Users\yusra\Desktop\bmi calculate\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI CALCULATOR.csproj.AssemblyReference.cache
+C:\Users\yusra\Desktop\bmi calculate\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI CALCULATOR.exe.config
+C:\Users\yusra\Desktop\bmi calculate\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI_CALCULATOR.Form1.resources
+C:\Users\yusra\Desktop\bmi calculate\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI_CALCULATOR.Properties.Resources.resources
+C:\Users\yusra\Desktop\bmi calculate\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI CALCULATOR.csproj.GenerateResource.cache
+C:\Users\yusra\Desktop\bmi calculate\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\yusra\Desktop\bmi calculate\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI CALCULATOR.exe
+C:\Users\yusra\Desktop\bmi calculate\BMI CALCULATOR\BMI CALCULATOR\obj\Debug\BMI CALCULATOR.pdb
